@@ -1,4 +1,5 @@
 //Adapter
+
 public class PrinterAdapter : IPrinter
 {
     private readonly LegacyPrinter _legacyPrinter;
